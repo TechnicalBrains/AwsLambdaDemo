@@ -1,0 +1,6 @@
+spring:
+  config:
+    activate:
+      on-profile: ${spring_profile_active}
+ 
+

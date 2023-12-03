@@ -1,0 +1,7 @@
+server:
+  servlet:
+    application-display-name: LambdaDemo-DEV
+  port: 8080
+  error:
+    whitelabel:
+      enabled: true
